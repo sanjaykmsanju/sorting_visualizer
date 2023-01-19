@@ -19,3 +19,5 @@ Colored representation of step being executed. 1.1) Blue:default 1.2) Yellow: Be
 3 Controls for visualizations 2.1) Speed of visualization (5 speed levels) 2.2) Data size () 2.3) Generation of new data (Randomly generate new data).
 Time and Space complexity of algorithm being visualized.
 
+https://github.com/sanjaykmsanju/sorting_visualizer.git
+
